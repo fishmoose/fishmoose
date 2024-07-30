@@ -1,4 +1,4 @@
-## Hi there 👋
+![My greatest achievement](https://github.com/fishmoose/fishmoose/blob/master/diploma.png?raw=true)
 
 <!--
 **fishmoose/fishmoose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
